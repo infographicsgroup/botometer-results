@@ -2,7 +2,7 @@
 
 This is a selection of the scraped data (as at May 29 2019).
 
-`index` as Excel and TSV gives an overview of the published data. It contains a list of 22 Twitter lists, that should be 100% humans, and 2 lists of Twitter accounts, that should be 100% bots.
+`index` as Excel and TSV gives an overview of the published data. It contains a list of 21 Twitter lists, that should be 100% humans, and 2 lists of Twitter accounts, that should be 100% bots.
 Each line also includes a summary of the botometer results.
 
 For convenience we also added a link to the original data source e.g. the Twitter list.
