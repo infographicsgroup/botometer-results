@@ -1,0 +1,33 @@
+
+Lists of accounts that should be 100% humans
+
+bot rate	filename	no of accounts	no of "bots"	no of "humans"	description	link
+33.3%	dpa_list_dpa-mitarbeiter	396	132	264	@dpa twitter list: dpa-mitarbeiter	https://twitter.com/dpa/lists/dpa-mitarbeiter/members
+23.0%	Hollywood_Tweet_list_actors-male	204	47	157	@Hollywood_Tweet twitter list: actors-male	https://twitter.com/Hollywood_Tweet/lists/actors-male/members
+22.5%	UN_Women_list_un-women-staff-on-twitter	138	31	107	@UN_Women twitter list: un-women-staff-on-twitter	https://twitter.com/UN_Women/lists/un-women-staff-on-twitter/members
+17.9%	Independent_list_follow-the-independent	28	5	23	@Independent twitter list: follow-the-independent	https://twitter.com/Independent/lists/follow-the-independent/members
+17.2%	Hollywood_Tweet_list_actors-female	233	40	193	@Hollywood_Tweet twitter list: actors-female	https://twitter.com/Hollywood_Tweet/lists/actors-female/members
+15.6%	Reuters_list_all-journos-list-1	448	70	378	@Reuters twitter list: all-journos-list-1	https://twitter.com/Reuters/lists/all-journos-list-1/members
+15.5%	TwitterGov_list_us-election-2014	1448	224	1224	@TwitterGov twitter list: us-election-2014	https://twitter.com/TwitterGov/lists/us-election-2014/members
+14.3%	IEEESpectrum_list_ieee-spectrum-editors	14	2	12	@IEEESpectrum twitter list: ieee-spectrum-editors	https://twitter.com/IEEESpectrum/lists/ieee-spectrum-editors/members
+14.0%	SPIEGELONLINE_list_redaktion	207	29	178	@SPIEGELONLINE twitter list: redaktion	https://twitter.com/SPIEGELONLINE/lists/redaktion/members
+13.0%	SZ_list_sz-redaktion	231	30	201	@SZ twitter list: sz-redaktion	https://twitter.com/SZ/lists/sz-redaktion/members
+12.2%	handelsblatt_list_handelsblatt-redakteure	147	18	129	@handelsblatt twitter list: handelsblatt-redakteure	https://twitter.com/handelsblatt/lists/handelsblatt-redakteure/members
+11.7%	wahl_beobachter_list_mdb-bundestag	515	60	455	@wahl_beobachter twitter list: mdb-bundestag	https://twitter.com/wahl_beobachter/lists/mdb-bundestag/members
+11.1%	cspan_list_foreign-leaders	207	23	184	@cspan twitter list: foreign-leaders	https://twitter.com/cspan/lists/foreign-leaders/members
+11.0%	zeitonline_list_die-zeit	82	9	73	@zeitonline twitter list: die-zeit	https://twitter.com/zeitonline/lists/die-zeit/members
+10.3%	NobelPrize_list_nobel-laureates	68	7	61	@NobelPrize twitter list: nobel-laureates	https://twitter.com/NobelPrize/lists/nobel-laureates/members
+10.0%	CNBC_list_cnbc-accounts	50	5	45	@CNBC twitter list: cnbc-accounts	https://twitter.com/CNBC/lists/cnbc-accounts/members
+6.9%	tagesspiegel_friends	1355	93	1262	accounts that @tagesspiegel follows	https://twitter.com/Tagesspiegel/following
+5.8%	tagesspiegel_list_tagesspiegel-redaktion	137	8	129	@tagesspiegel twitter list: tagesspiegel-redaktion	https://twitter.com/tagesspiegel/lists/tagesspiegel-redaktion/members
+9.8%	zeitonline_list_das-zeit-online-team	102	10	92	@zeitonline twitter list: das-zeit-online-team	https://twitter.com/zeitonline/lists/das-zeit-online-team/members
+9.6%	dpa_list_chefredaktionen	302	29	273	@dpa twitter list: chefredaktionen	https://twitter.com/dpa/lists/chefredaktionen/members
+9.5%	OReillyMedia_list_authors	367	35	332	@OReillyMedia twitter list: authors	https://twitter.com/OReillyMedia/lists/authors/members
+						
+						
+
+Lists of accounts that should be 100% bots
+
+bot rate	filename	no of accounts	no of "bots"	no of "humans"	description	link
+36.4%	newscientist_list_twitterbots	11	4	7	@newscientist twitter list: twitterbots	https://twitter.com/newscientist/lists/twitterbots/members
+35.0%	file_bots	929	325	604	collected bots of botwiki.org	https://botwiki.org/bots/
